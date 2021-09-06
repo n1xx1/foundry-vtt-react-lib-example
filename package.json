@@ -4,9 +4,9 @@
   "description": "React Lib Example",
   "private": true,
   "scripts": {
-    "build": "node script/build production",
-    "build:production": "node script/build production",
-    "start": "node script/build watch"
+    "build": "node scripts/build production",
+    "build:production": "node scripts/build production",
+    "start": "node scripts/build watch"
   },
   "repository": {},
   "author": "n1xx1",
